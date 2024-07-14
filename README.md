@@ -4,7 +4,7 @@ Technology used-Python
 Model used-Convolutional Neural Network(Deep Learning Model)
 Librares used- Tensorflow, keras, os, sys, io, image_from_download
 
-This project is a simple image classification of pictures taken from internet.
+This project is a simple image classification of pictures.
 Avoiding the tedious task of cpoy and pasting and renaming, i have created two python scripts which would help to download the images of the person or character i require and rename them in a particular sequence.
 In the Dataset folder three folders are present-
 TRAIN folder which has 40 photos of Thanos and Jokar for training the model
