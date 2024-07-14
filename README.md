@@ -1,8 +1,8 @@
 
 A basic deep learning project
-Technology used-Python
-Model used-Convolutional Neural Network(Deep Learning Model)
-Librares used- Tensorflow, keras, os, sys, io, image_from_download
+#Technology used-Python
+#Model used-Convolutional Neural Network(Deep Learning Model)
+#Librares used- Tensorflow, keras, os, sys, io, image_from_download
 
 This project is a simple image classification of pictures.
 Avoiding the tedious task of cpoy and pasting and renaming, i have created two python scripts which would help to download the images of the person or character i require and rename them in a particular sequence.
